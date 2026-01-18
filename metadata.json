@@ -1,0 +1,7 @@
+{
+  "name": "Shraddha Discipline Tracker",
+  "description": "A web application for schools to track student discipline infractions such as issues with haircuts, uniforms, late arrivals, and ID cards. It includes an AI-powered feature to generate notes for parents and a QR code scanner for quick student identification.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
